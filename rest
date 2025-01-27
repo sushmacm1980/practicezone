@@ -1,0 +1,16 @@
+
+
+REST API
+
+POST = create (INSERT)
+GET = fetch or read (SELECT) 	- no body
+DELETE = remove					- no body
+PUT = update the whole
+PATCH = update the parts
+
+
+
+-- -- -- 
+
+
+
